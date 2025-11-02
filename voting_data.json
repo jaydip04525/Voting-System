@@ -1,0 +1,64 @@
+{
+    "candidates": [
+        "\ud83c\udf37 Modi",
+        "\ud83c\udf31 Mamata"
+    ],
+    "votes": {
+        "\ud83c\udf37 Modi": 1,
+        "\ud83c\udf31 Mamata": 1
+    },
+    "voters": [
+        {
+            "id": "9874563214",
+            "name": "Nayan"
+        },
+        {
+            "id": "7854961258",
+            "name": "Sneha"
+        },
+        {
+            "id": "1257846982",
+            "name": "Payal"
+        },
+        {
+            "id": "7965236568",
+            "name": "Ramkrishna"
+        },
+        {
+            "id": "7591546982",
+            "name": "Boku"
+        },
+        {
+            "id": "5893874589",
+            "name": "Akash"
+        },
+        {
+            "id": "9874562315",
+            "name": "Debashish"
+        },
+        {
+            "id": "8569742364",
+            "name": "Chintu"
+        },
+        {
+            "id": "7412589630",
+            "name": "Sikha"
+        },
+        {
+            "id": "8529637418",
+            "name": "Pushpa"
+        }
+    ],
+    "voted": [
+        {
+            "id": "7965236568",
+            "name": "ramkrishna",
+            "voted_for": "\ud83c\udf37 Modi"
+        },
+        {
+            "id": "5893874589",
+            "name": "akash",
+            "voted_for": "\ud83c\udf31 Mamata"
+        }
+    ]
+}
